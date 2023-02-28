@@ -1,6 +1,1 @@
 print('Hello World!')
-print('yooo')
-print('Prog1 commit')
-print('yooo Prog3 commit')
-print('Prog5 commit')
-print('Prog4')
